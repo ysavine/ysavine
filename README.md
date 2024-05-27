@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ysavine
-- 👀 I’m interested in all-things-NLP and full stack development!
+- 👀 I’m interested in all-things NLP and full stack development!
 - 💞️ I’m looking to collaborate on meaningful, creative projects.
 - 📫 How to reach me: yulia.savine@gmail.com
 - 😄 Pronouns: she/her
