@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ysavine
-- 🧠 I’m interested in all things NLP, AI/ML, and full stack development! I've also been exploring design recently.
+- 🧠 I’m interested in all things NLP, applied AI/ML, and full stack development! I've also been exploring design recently.
 - 😄 Pronouns: she/her
