@@ -1,5 +1,5 @@
 👋 Hi, I’m @ysavine
-🧠 I’m interested in all things NLP, applied AI/ML, and full stack development! I've also been exploring product and design recently.
+🧠 I’m interested in building meaningful things for people! I am curious about ways to impactfully incorporate AI/ML and NLP. I'm also exploring product design.
 😄 Pronouns: she/her
 
 Here some other additional projects! ~
