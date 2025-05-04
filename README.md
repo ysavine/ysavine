@@ -1,5 +1,5 @@
 👋 Hi, I’m @ysavine
-🧠 I’m interested in building meaningful things for people! I am curious about ways to impactfully incorporate AI/ML and NLP. I'm also exploring product design.
+🧠 I’m love designing and building meaningful things for people!
 😄 Pronouns: she/her
 
 Here some other additional projects! ~
