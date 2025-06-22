@@ -1,5 +1,4 @@
 👋 Hi, I’m @ysavine
-🧠 I’m love designing and building meaningful things for people!
 😄 Pronouns: she/her
 
 Here some other additional projects! ~
